@@ -1,0 +1,40 @@
+.wide_block{
+  width:100%;
+  display: flex;
+  flex-wrap:nowrap;
+  flex-direction: row;
+  justify-content:flex-start;
+  padding: 20px;
+}
+
+.row_block{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.test_blue{
+  background-color: blue;
+}
+
+.test_red{
+  background-color: red;
+}
+
+.list_block{
+  flex-direction: column;
+}
+
+.img_block{
+  padding: 10px;
+}
+
+.item_block{
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.item{
+  flex:1;
+}
