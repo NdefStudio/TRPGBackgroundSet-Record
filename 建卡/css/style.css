@@ -37,6 +37,10 @@
   flex-wrap: nowrap;
 }
 
-.item{
+.item_key{
+  flex:1;
+}
+
+.item_value{
   flex:1;
 }
