@@ -4,7 +4,8 @@
   flex-wrap:nowrap;
   flex-direction: row;
   justify-content:flex-start;
-  padding: 20px;
+  border-style: solid;
+  border-width: 3px 3px 0 3px;
 }
 
 .row_block{
@@ -24,6 +25,9 @@
 .list_block{
   display: flex;
   flex-direction: column;
+  width: 100%;
+  border-style: solid;
+  border-width: 0 0 0 1px;
 }
 
 .img{
@@ -35,12 +39,14 @@
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  justify-content: flex-start;
 }
 
 .item_key{
-  flex:1;
+  font-size: 10px;
 }
 
 .item_value{
-  flex:1;
+  flex: 1;
+  font-size:10px;
 }
