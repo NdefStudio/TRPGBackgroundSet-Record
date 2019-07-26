@@ -1,0 +1,95 @@
+{
+  "name": "",
+  "race": "",
+  "age": "",
+  "ablility_st": "",
+  "class": "",
+  "level":"",
+  "stats":{
+    "strength":"",
+    "dexterity":"",
+    "constitution":"",
+    "intelligence":"",
+    "wisdom":"",
+    "chrisma":""
+  },
+  "hp_max":"",
+  "hp_now":"",
+  "abilit_point_max":"",
+  "abilit_point_now":"",
+  "skilled_add":"",
+  "armor_class":"",
+  
+  "skills":{
+    "atheletics":"",
+    "acrobatics":"",
+    "sleight_of_hand":"",
+    "stealth":"",
+    "arcana":"",
+    "history":"",
+    "investigation":"",
+    "nature":"",
+    "religion":"",
+    "animal_handling":"",
+    "insight":"",
+    "medicine":"",
+    "perception":"",
+    "survival":"",
+    "deception":"",
+    "intimidation":"",
+    "performance":"",
+    "persuasion":"",
+  },
+  "ablility_list": [{
+      "num":"0","detail":""
+    },
+    {
+      "num":"1","detail":""
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "sp_movements":[{
+      "num":"0","detail":""
+    },
+    {
+      "num":"1","detail":""
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "items":[{
+      "name":"","number":""
+    }
+  ],
+  "max_weight":"",
+  "class_skills":{
+    "name":"","description":""
+  }
+}
