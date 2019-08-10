@@ -1,0 +1,95 @@
+{
+  "name": "方旭和",
+  "race": "人类",
+  "age": "26",
+  "ablility_st": "重量控制",
+  "class": "强袭",
+  "level":"1",
+  "stats":{
+    "strength":"8",
+    "dexterity":"15",
+    "constitution":"11",
+    "intelligence":"15",
+    "wisdom":"8",
+    "chrisma":"17"
+  },
+  "hp_max":"10",
+  "hp_now":"10",
+  "abilit_point_max":"5",
+  "abilit_point_now":"5",
+  "skilled_add":"2",
+  "armor_class":"15",
+
+  "skills":{
+    "atheletics":"true",
+    "acrobatics":"true",
+    "sleight_of_hand":"false",
+    "stealth":"false",
+    "arcana":"false",
+    "history":"false",
+    "investigation":"false",
+    "nature":"false",
+    "religion":"false",
+    "animal_handling":"false",
+    "insight":"false",
+    "medicine":"false",
+    "perception":"false",
+    "survival":"false",
+    "deception":"false",
+    "intimidation":"false",
+    "performance":"false",
+    "persuasion":"true",
+  },
+  "ablility_list": [{
+      "num":"0","detail":"可以将装备物品稍微变轻，负重增加10kg（被动）"
+    },
+    {
+      "num":"1","detail":"通过控制自身重量可以跳的更高、跑的更快等，发动时本回合体操、运动获得优势/搬运物品时的力量检定获得优势/投掷和射击的射程加倍"
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "sp_movements":[{
+      "num":"0","detail":""
+    },
+    {
+      "num":"1","detail":""
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "items":[{
+      "name":"","number":""
+    }
+  ],
+  "max_weight":"",
+  "class_skills":{
+    "name":"","description":""
+  }
+}
