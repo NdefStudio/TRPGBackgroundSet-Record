@@ -1,0 +1,95 @@
+{
+  "name": "Quelenna",
+  "race": "精灵",
+  "age": "42",
+  "ablility_st": "可以使用DND体系奥术魔法",
+  "class": "游击",
+  "level":"1",
+  "stats":{
+    "strength":"8",
+    "dexterity":"11+2",
+    "constitution":"12",
+    "intelligence":"18",
+    "wisdom":"14",
+    "chrisma":"15"
+  },
+  "hp_max":"8",
+  "hp_now":"8",
+  "abilit_point_max":"5",
+  "abilit_point_now":"5",
+  "skilled_add":"2",
+  "armor_class":"12",
+
+  "skills":{
+    "atheletics":"false",
+    "acrobatics":"false",
+    "sleight_of_hand":"false",
+    "stealth":"false",
+    "arcana":"true",
+    "history":"false",
+    "investigation":"false",
+    "nature":"true",
+    "religion":"false",
+    "animal_handling":"false",
+    "insight":"false",
+    "medicine":"false",
+    "perception":"true",
+    "survival":"false",
+    "deception":"false",
+    "intimidation":"false",
+    "performance":"false",
+    "persuasion":"false",
+  },
+  "ablility_list": [{
+      "num":"0","detail":"可以使用DND体系奥术魔法，视作DND5e法师职业"
+    },
+    {
+      "num":"1","detail":""
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "sp_movements":[{
+      "num":"0","detail":""
+    },
+    {
+      "num":"1","detail":""
+    },
+    {
+      "num":"2","detail":""
+    },
+    {
+      "num":"3","detail":""
+    },
+    {
+      "num":"4","detail":""
+    },
+    {
+      "num":"5","detail":""
+    },
+    {
+      "num":"6","detail":""
+    },
+  ],
+  "items":[{
+      "name":"","number":""
+    }
+  ],
+  "max_weight":"",
+  "class_skills":{
+    "name":"","description":""
+  }
+}
